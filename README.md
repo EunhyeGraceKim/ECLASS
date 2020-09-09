@@ -67,16 +67,16 @@ ECLASS는 대학생들과 교수님의 요구사항을 바탕으로 '온라인 �
 - 메인페이지
 <img width="960" alt="main" src="https://user-images.githubusercontent.com/51870028/92557789-fc9f9b00-f2a7-11ea-83c8-8a88bc7968ce.png">
 
--후원하기 리스트 페이지
+- 후원하기 리스트 페이지
 <img width="960" alt="pt55" src="https://user-images.githubusercontent.com/66661653/92558832-5bfeaa80-f2aa-11ea-94d9-062cb11fbb4a.png">
 
--후원하기 상세페이지(스토리)
+- 후원하기 상세페이지(스토리)
 <img width="960" alt="pt66" src="https://user-images.githubusercontent.com/66661653/92563542-b26fe700-f2b2-11ea-9d21-9ab7acdc4891.png">
 
--후원하기 상세페이지(서포터)
+- 후원하기 상세페이지(서포터)
 <img width="960" alt="pt77" src="https://user-images.githubusercontent.com/66661653/92559081-d7f8f280-f2aa-11ea-975b-49e6709bc2e0.png">
 
--결제하기
+- 결제하기
 <img width="960" alt="pt88" src="https://user-images.githubusercontent.com/66661653/92558944-9405ed80-f2aa-11ea-9d6a-a1d5c341a273.png">
 
 - 마이페이지 (학생으로 로그인)
