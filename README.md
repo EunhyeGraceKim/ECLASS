@@ -1,7 +1,5 @@
 # ECLASS 💻
 2020 Final Project (KH정보교육원)
-
-<br/>
 <br/>
 
 ## 목차
