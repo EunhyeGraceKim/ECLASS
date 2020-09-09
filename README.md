@@ -40,7 +40,7 @@ ECLASS는 코로나로 인한 비대면 교육의 수요 증가와 함께 사용
 <br/>
 
 ## <a name="schedule">일정 관리 🗓</a>
-<img width="425" alt="sheet" src="https://user-images.githubusercontent.com/66661653/92563317-5e650280-f2b2-11ea-9289-22439df64a82.png">
+<img width="700" alt="sheet" src="https://user-images.githubusercontent.com/66661653/92563317-5e650280-f2b2-11ea-9289-22439df64a82.png">
 
 <br/>
 
