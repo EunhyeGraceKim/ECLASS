@@ -80,7 +80,7 @@
 <img width="960" alt="pt44" src="https://user-images.githubusercontent.com/66661653/92558832-5bfeaa80-f2aa-11ea-94d9-062cb11fbb4a.png">
 
 -후원하기 상세페이지(스토리)
-<img width="960" alt="https://user-images.githubusercontent.com/66661653/92558992-ab44db00-f2aa-11ea-984c-58ba124ece36.png">
+<img width="960" alt="https://user-images.githubusercontent.com/66661653/92559205-168ead00-f2ab-11ea-9720-1ccb71938bed.png">
 
 -후원하기 상세페이지(서포터)
 <img width="960" alt="pt44" src="https://user-images.githubusercontent.com/66661653/92559081-d7f8f280-f2aa-11ea-975b-49e6709bc2e0.png">
