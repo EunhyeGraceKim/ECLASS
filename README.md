@@ -67,14 +67,6 @@ ECLASS는 대학생들과 교수님의 요구사항을 바탕으로 '온라인 �
 - 메인페이지
 <img width="960" alt="main" src="https://user-images.githubusercontent.com/51870028/92557789-fc9f9b00-f2a7-11ea-83c8-8a88bc7968ce.png">
 
-- 마이페이지 (학생으로 로그인)
-<img width="960" alt="pt11" src="https://user-images.githubusercontent.com/51870028/92556863-eb558f00-f2a5-11ea-9c31-d05dfab095e5.png">
-<img width="960" alt="pt22" src="https://user-images.githubusercontent.com/51870028/92556916-088a5d80-f2a6-11ea-8e7e-6cb651628ef2.png">
-
-- 마이페이지 (교수로 로그인)
-<img width="960" alt="pt33" src="https://user-images.githubusercontent.com/51870028/92556943-15a74c80-f2a6-11ea-8e40-8d76f3e0d7f1.png">
-<img width="960" alt="pt44" src="https://user-images.githubusercontent.com/51870028/92556979-22c43b80-f2a6-11ea-8016-bbffec60c81a.png">
-
 -후원하기 리스트 페이지
 <img width="960" alt="pt55" src="https://user-images.githubusercontent.com/66661653/92558832-5bfeaa80-f2aa-11ea-94d9-062cb11fbb4a.png">
 
@@ -87,5 +79,12 @@ ECLASS는 대학생들과 교수님의 요구사항을 바탕으로 '온라인 �
 -결제하기
 <img width="960" alt="pt88" src="https://user-images.githubusercontent.com/66661653/92558944-9405ed80-f2aa-11ea-9d6a-a1d5c341a273.png">
 
+- 마이페이지 (학생으로 로그인)
+<img width="960" alt="pt11" src="https://user-images.githubusercontent.com/51870028/92556863-eb558f00-f2a5-11ea-9c31-d05dfab095e5.png">
+<img width="960" alt="pt22" src="https://user-images.githubusercontent.com/51870028/92556916-088a5d80-f2a6-11ea-8e7e-6cb651628ef2.png">
+
+- 마이페이지 (교수로 로그인)
+<img width="960" alt="pt33" src="https://user-images.githubusercontent.com/51870028/92556943-15a74c80-f2a6-11ea-8e40-8d76f3e0d7f1.png">
+<img width="960" alt="pt44" src="https://user-images.githubusercontent.com/51870028/92556979-22c43b80-f2a6-11ea-8016-bbffec60c81a.png">
 
 
