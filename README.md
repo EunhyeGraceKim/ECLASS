@@ -44,9 +44,11 @@ ECLASS는 코로나로 인한 비대면 교육의 수요 증가와 함께 이를
 ## <a name="settings">개발 환경 🔧</a>
 <img width="425" alt="roqkf" src="https://user-images.githubusercontent.com/51870028/92555289-47b6af80-f2a2-11ea-9367-8ec1f00fe7e9.PNG">
 
+<img width="425" alt="sheet" src="https://user-images.githubusercontent.com/66661653/92563317-5e650280-f2b2-11ea-9289-22439df64a82.png">
+
 <br/>
 
-## <a name="reference">참고한 사이트</a>
+## <a name="reference">참고 사이트</a>
 <img width="354" alt="reference" src="https://user-images.githubusercontent.com/51870028/92555457-a714bf80-f2a2-11ea-8744-6b8134dde77b.PNG">
 
 <br/>
@@ -76,7 +78,7 @@ ECLASS는 코로나로 인한 비대면 교육의 수요 증가와 함께 이를
 <img width="960" alt="pt55" src="https://user-images.githubusercontent.com/66661653/92558832-5bfeaa80-f2aa-11ea-94d9-062cb11fbb4a.png">
 
 -후원하기 상세페이지(스토리)
-<img width="960" alt="pt66" src="https://user-images.githubusercontent.com/66661653/92559311-4dfd5980-f2ab-11ea-84a8-bdaedf38d394.png">
+<img width="960" alt="pt66" src="https://user-images.githubusercontent.com/66661653/92563542-b26fe700-f2b2-11ea-9d21-9ab7acdc4891.png">
 
 -후원하기 상세페이지(서포터)
 <img width="960" alt="pt77" src="https://user-images.githubusercontent.com/66661653/92559081-d7f8f280-f2aa-11ea-975b-49e6709bc2e0.png">
