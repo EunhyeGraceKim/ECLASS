@@ -8,6 +8,7 @@
 - <a href="#projectintro">프로젝트 소개</a>
 - <a href="#logo">로고 소개</a>
 - <a href="#team">팀원 소개</a>
+- <a href="#schedule">일정 관리</a>
 - <a href="#settings">개발 환경</a>
 - <a href="#reference">참고한 사이트</a>
 - <a href="#db">DB 설계 (ERD+UML)</a>
@@ -21,7 +22,7 @@
 ## <a name="projectintro">프로젝트 소개</a>
 <img width="402" alt="projectintro" src="https://user-images.githubusercontent.com/51870028/92555160-045c4100-f2a2-11ea-909f-c634a587feff.PNG">
 
-> [온라인 클래스 플랫폼] <br/>
+> [온라인 클래스 플랫폼]🖥 <br/>
 ECLASS는 코로나로 인한 비대면 교육의 수요 증가와 함께 이를 반영하여 제작하게 된 온라인 수강 웹사이트 입니다.<br/>
 온라인 수업을 수강하는 대학생들과, 교수님들의 니즈를 반영하여 온라인 강의, 출석관리, 시험관리, 성적관리 등 모든 기능을 한번에 이용할 수 있는 플랫폼 입니다.
 펭귄이라는 귀여운 아이콘을 사용하여 학생들과의 친근감을 도모했으며, 교육 사이트에서 교육을 받지 못하는 아이들을 위한 후원하기 카테고리를 만든 것이 ECLASS사이트의 차이점 입니다. The first penguin, The first class라는 네이밍으로 이클래스의 선구자가 되는 것이 목표입니다.
@@ -41,10 +42,13 @@ ECLASS는 코로나로 인한 비대면 교육의 수요 증가와 함께 이를
 
 <br/>
 
+## <a name="schedule">일정 관리 🗓</a>
+<img width="425" alt="sheet" src="https://user-images.githubusercontent.com/66661653/92563317-5e650280-f2b2-11ea-9289-22439df64a82.png">
+
+<br/>
+
 ## <a name="settings">개발 환경 🔧</a>
 <img width="425" alt="roqkf" src="https://user-images.githubusercontent.com/51870028/92555289-47b6af80-f2a2-11ea-9367-8ec1f00fe7e9.PNG">
-
-<img width="425" alt="sheet" src="https://user-images.githubusercontent.com/66661653/92563317-5e650280-f2b2-11ea-9289-22439df64a82.png">
 
 <br/>
 
