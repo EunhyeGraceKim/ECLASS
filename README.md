@@ -3,12 +3,13 @@
 
 <br/>
 <br/>
+
 ## 목차
 - <a href="#projectintro">프로젝트 소개</a>
 - <a href="#logo">로고 소개</a>
 - <a href="#team">팀원 소개</a>
 - <a href="#settings">개발 환경</a>
-- <a href="#reference">참고 사이트</a>
+- <a href="#reference">참고한 사이트</a>
 - <a href="#db">DB 설계 (ERD+UML)</a>
 - <a href="#pageintro">페이지 소개</a>
 
