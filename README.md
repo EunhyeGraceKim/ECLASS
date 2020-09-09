@@ -21,8 +21,8 @@
 <img width="402" alt="projectintro" src="https://user-images.githubusercontent.com/51870028/92555160-045c4100-f2a2-11ea-909f-c634a587feff.PNG">
 
 > [온라인 클래스 플랫폼] <br/>
-ECLASS는 코로나로 인한 비대면 교육의 수요 증가와 함께 실제 사용자들의 니즈를 반영하여 제작하게 된 온라인 수강 웹사이트 입니다.<br/>
-대학생들과 교수님의 요구사항을 바탕으로 온라인 강의, 출석관리, 시험관리, 성적관리 등 모든 기능을 한번에 이용할 수 있는 <strong>통합 온라인 클래스 플랫폼</strong>을 제작하게 되었고, 학생들과의 친근감을 형성하며 ELASS만의 차이점을 주기 위해 펭귄이라는 귀여운 아이콘을 사용하여 브랜딩하게 되었습니다. 특히, 교육 사이트에서 교육을 받지 못하는 아이들을 위한 <strong>후원하기</strong>페이지를 만든 것이 ECLASS만의 차이점 입니다. The first penguin, The first class라는 네이밍으로 이클래스의 선구자가 되는 것이 목표입니다.
+ECLASS는 코로나로 인한 비대면 교육의 수요 증가와 함께 실제 사용자들의 니즈를 반영하여 제작하게 된 온라인 수강 웹 사이트입니다.<br/>
+ECLASS는 대학생들과 교수님의 요구사항을 바탕으로 '온라인 강의, 출석관리, 시험관리, 성적관리' 등 모든 기능을 한번에 이용할 수 있게<strong>통합 온라인 플랫폼</strong>으로 제작하게 되었으며, 학생들과의 친근감을 형성 및 ELASS만의 차이점을 주기 위해 펭귄이라는 귀여운 아이콘을 사용하여 브랜딩하게 되었습니다. 특히, 교육 사이트에서 교육을 받지 못하는 아이들을 위한 <strong>후원하기</strong>페이지를 만든 것이 ECLASS만의 차이점 입니다. The first penguin, The first class라는 네이밍으로 이클래스의 선구자가 되는 것이 목표입니다.
 
 <br/>
 
@@ -40,7 +40,7 @@ ECLASS는 코로나로 인한 비대면 교육의 수요 증가와 함께 실제
 <br/>
 
 ## <a name="schedule">일정 관리 🗓</a>
-<img width="700" alt="sheet" src="https://user-images.githubusercontent.com/66661653/92563317-5e650280-f2b2-11ea-9289-22439df64a82.png">
+<img width="600" alt="sheet" src="https://user-images.githubusercontent.com/66661653/92563317-5e650280-f2b2-11ea-9289-22439df64a82.png">
 
 <br/>
 
