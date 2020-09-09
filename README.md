@@ -40,7 +40,7 @@ ECLASS는 대학생들과 교수님의 요구사항을 바탕으로 '온라인 �
 <br/>
 
 ## <a name="schedule">일정 관리 🗓</a>
-<img width="600" alt="sheet" src="https://user-images.githubusercontent.com/66661653/92563317-5e650280-f2b2-11ea-9289-22439df64a82.png">
+<img width="600" alt="sheet" src="https://user-images.githubusercontent.com/66661653/92567925-5eb4cc00-f2b9-11ea-98a1-4ce05caebdda.png">
 
 <br/>
 
